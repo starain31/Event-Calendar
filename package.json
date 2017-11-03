@@ -1,22 +1,14 @@
 {
-  "name": "event-calander",
+  "name": "learn",
   "version": "1.0.0",
-  "description": "technical assignment",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/starain31/Event-Calendar.git"
-  },
-  "keywords": [
-    "lerning"
-  ],
-  "author": "starain",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/starain31/Event-Calendar/issues"
-  },
-  "homepage": "https://github.com/starain31/Event-Calendar#readme"
+  "author": "sakib",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  }
 }
