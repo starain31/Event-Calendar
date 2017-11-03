@@ -1,0 +1,7 @@
+body {
+  padding: 30px;
+}
+
+.simple-calendar td {
+  width: 14.2857143%;
+}
