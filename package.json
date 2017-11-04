@@ -1,0 +1,14 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sakib",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  }
+}
